@@ -1,0 +1,5 @@
+[core]
+    remote = ssh_remote
+['remote "ssh_remote"']
+    url = ssh://sujal@localhost/home/sujal/dvcstore
+    keyfile = /home/sujal/.ssh/id_ed25519
