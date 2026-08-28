@@ -1,0 +1,5 @@
+outs:
+- md5: ec3a940151048c748e5e1f3525e3b61e
+  size: 46005
+  hash: md5
+  path: file_index.csv
