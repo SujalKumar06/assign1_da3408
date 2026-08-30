@@ -3,11 +3,13 @@
 Experiment Management & Reproducibility.
 
 ```
-q1/   aiops_q1.pdf          conceptual answer (technical debt diagnosis)
+final_report.pdf            written answers for Q1 and Q2
 q2/   question_2.ipynb      MLflow experiment tracking on MNIST + MLP
 q3/   *.sh, *.dvc           DVC data versioning and rollback (its own git repo)
 q4/   -                     capstone, in a separate repo (see below)
 ```
+
+The theoretical answers for Q1 and Q2 are written in `final_report.pdf`.
 
 ## Environment
 
